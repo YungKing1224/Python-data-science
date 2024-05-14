@@ -1,2 +1,2 @@
 # Python-Pandas-
-This stores code of python using pandas
+This stores code of python for data science
