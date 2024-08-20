@@ -1,2 +1,2 @@
 # Python-Pandas-
-This stores code of python for data science
+This stores various data science notes and projects. The folders are divided into 'notes' for notes and 'data_science_projects' for projects.
